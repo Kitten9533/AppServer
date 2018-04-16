@@ -1,4 +1,5 @@
-var router = require('./router');
+var router = require('./routes/router');
+var forward = require('./routes/forward');
 var express = require('express');
 var bodyParser = require('body-parser');
 var multer = require('multer');
@@ -15,6 +16,7 @@ app.use(bodyParser.urlencoded({
 app.use('/static', express.static('public'));
 
 app.use('/app', router);
+app.use('/forward', forward);
 
 var server = app.listen(3000, function() {
 	var host = server.address().address;

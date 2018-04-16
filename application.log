@@ -1,0 +1,9 @@
+[2018-04-16T14:08:06.130] [INFO] default - originalUrl:/forward/search/topics?q=java+is:featured, forwarding to https://api.github.com/search/topics?q=java+is:featured
+[2018-04-16T14:19:03.362] [INFO] default - originalUrl:/forward/search/topics?q=javais:featured, forwarding to https://api.github.com/search/topics?q=javais:featured
+[2018-04-16T14:19:11.674] [INFO] default - originalUrl:/forward/search/topics?q=java+is:featured, forwarding to https://api.github.com/search/topics?q=java+is:featured
+[2018-04-16T14:20:24.041] [INFO] default - originalUrl:/forward/search/topics?q=ABPBLOG+is:featured, forwarding to https://api.github.com/search/topics?q=ABPBLOG+is:featured
+[2018-04-16T14:20:30.048] [INFO] default - originalUrl:/forward/search/topics?q=ABPBLOG, forwarding to https://api.github.com/search/topics?q=ABPBLOG
+[2018-04-16T14:20:37.352] [INFO] default - originalUrl:/forward/search/topics?q=java+is:featured, forwarding to https://api.github.com/search/topics?q=java+is:featured
+[2018-04-16T14:55:58.116] [INFO] default - originalUrl:/forward/search/topics?q=java+is:curated, forwarding to https://api.github.com/search/topics?q=java+is:curated
+[2018-04-16T14:56:05.012] [INFO] default - originalUrl:/forward/search/topics?q=javais:curated, forwarding to https://api.github.com/search/topics?q=javais:curated
+[2018-04-16T14:59:47.988] [INFO] default - originalUrl:/forward/search/topics:java, forwarding to https://api.github.com/search/topics:java
